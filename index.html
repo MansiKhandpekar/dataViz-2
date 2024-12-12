@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>US Map with Universities</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+</head>
+<body>
+    <!-- Header for better context and navigation -->
+    <div id="content-wrapper">
+        
+        <!-- Container for the map visualization -->
+        <div id="map-container" class="map-container">
+            <div id="map"></div>
+        </div>
+
+        <!-- Controls for filtering categories -->
+        <div id="controls" class="controls">
+            <button id="all-btn">All</button>
+            <button id="study-site-btn">Study Sites</button>
+            <button id="omics-production-center-btn">Omics Production Center</button>
+            <button id="data-analysis-coordination-center-btn">Data Analysis Coordination Centers</button>
+        </div>
+
+        <!-- Container for descriptions of universities -->
+        <!-- <div id="description-container" class="description-container"></div> -->
+
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+    window.onload = function () {
+        // Measure the height of the document content
+        const height = document.body.scrollHeight;
+    
+        // Send a message to the parent page (Wix) containing the height
+        window.parent.postMessage({ height: height }, "*");
+    };
+    </script>
+</body>
+</html>
