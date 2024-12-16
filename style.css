@@ -2,7 +2,7 @@
 body {
     font-family: 'Helvetica Light', Arial, sans-serif;
     margin: 0; /* Removed side margin for a more modern appearance */
-    padding: 50px 0px;
+    padding: 40px 0px;
     box-sizing: border-box;
     /* height: 100vh; Set body height to viewport height to fix height of entire page */
     /* overflow: hidden; Prevent entire body from scrolling */
@@ -212,7 +212,7 @@ body {
 
     #map {
         max-width: 80%;
-        margin-top: 50px;
+        margin-top: 40px;
     }
 
     .controls button {
@@ -227,13 +227,14 @@ body {
         width: 100%;
         max-width: 600px;
         min-width: auto;
+        max-height: auto;
     }
 
     #description-container {
         padding: 15px;
         width: 90%;
         margin: 15px auto;
-        height: 200px; /* Adjust height for smaller screens */
+        /* height: 200px; Adjust height for smaller screens */
     }
 
     .controls button {
@@ -252,8 +253,9 @@ body {
 
 @media (max-width: 480px) {
     #map {
-        margin-top: 20px;
+        margin-top: 10px;
         max-width: 100%;
+        min-height: auto;
         min-width: auto;
         flex: 1 1 100%;
     }
@@ -261,8 +263,8 @@ body {
     #description-container {
         padding: 10px;
         width: 95%;
-        margin: 10px auto;
-        height: 150px; /* Adjust height for smaller screens */
+        margin: 1% auto;
+        height: fit-content; /*Adjust height for smaller screens */
     }
 
     .controls {
@@ -283,7 +285,7 @@ body {
     }
 
     .tooltip {
-        width: 200px;
+        width: 100px;
         padding: 10px;
     }
 }
