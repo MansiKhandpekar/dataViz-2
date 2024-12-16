@@ -157,6 +157,18 @@ const centersData = [
         lon: -122.1697,
         description: "Our project aims to establish a data analysis and coordination center to coordinate and support the Consortium’s activities and maximize its success. The center will manage consortium data, coordinate and contribute to protocol development and data analysis, create a multi-dimensional dataset and a data portal, and provide outreach to disseminate consortium results.",
         leadership: "Leadership: Zhiping Weng (University of Massachusetts Chan Medical School), Anshul Kundaje (Stanford University) & Bill Noble (University of Washington)"
+    },
+
+    {
+        name: "National Institutes of Health",
+        state: "MD",
+        category: "nih leadership",
+        title: "NIH Leadership",
+        shortname: "NIH",
+        lat: 39.0037,
+        lon: -77.1013,
+        description: "",
+        leadership: "<strong> NHGRI </strong> : <p> Temesgen Fufa (Program Director) <br> Joannella Morales (Program Director) <br> Erin Ramos (Deputy Director, DGM) <br> Riley Wilson (Program Analyst)</p> <strong> NCI </strong> : <p> Leah Mechanic (Program Director)<br> Melissa Rotunno (Program Director) </p> <strong> NIEHS </strong> : <p> Kim McAllister (Program Director) </p>"
     }
 ];
 
@@ -237,6 +249,9 @@ d3.json(geojsonURL).then(data => {
                     break;
                 case "OPC":
                     svgPath = "images/OPC.svg";
+                    break;
+                case "NIH":
+                    svgPath = "images/NIH.svg";
                     break;
                 default:
                     svgPath = "images/default-marker.svg"; // Default SVG if any
@@ -353,6 +368,9 @@ d3.json(geojsonURL).then(data => {
 
     d3.select("#data-analysis-coordination-center-btn")
         .on("click", () => highlightCategory("data analysis coordination center"));
+
+    d3.select("#nih-btn")
+        .on("click", () => highlightCategory("nih leadership"));
 
     d3.select("#all-btn")
         .on("click", () => highlightCategory("all"));
