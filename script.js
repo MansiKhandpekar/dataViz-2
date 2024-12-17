@@ -168,7 +168,7 @@ const centersData = [
         lat: 39.0037,
         lon: -77.1013,
         description: "",
-        leadership: "<strong> NHGRI </strong> : <p> Temesgen Fufa (Program Director) <br> Joannella Morales (Program Director) <br> Erin Ramos (Deputy Director, DGM) <br> Riley Wilson (Program Analyst)</p> <strong> NCI </strong> : <p> Leah Mechanic (Program Director)<br> Melissa Rotunno (Program Director) </p> <strong> NIEHS </strong> : <p> Kim McAllister (Program Director) </p>"
+        leadership: "<strong> National Human Genome Research Institute </strong> : <p> Temesgen D. Fufa, Ph.D. (Program Director) <br> Joannella Morales, Ph.D. (Program Director) <br> Erin M. Ramos. Ph.D., M.P.H. (Deputy Director, Division of Genomic Medicine) <br> Riley Wilson, B.S. (Program Analyst)</p> <strong> National Cancer Institute </strong> : <p> Leah E. Mechanic, Ph.D., MPH (Program Director)<br> Melissa Rotunno, Ph.D. (Program Director) </p> <strong> National Institute of Environmental Health Sciences </strong> : <p> Kimberly McAllister, Ph.D. (Program Director) </p>"
     }
 ];
 
