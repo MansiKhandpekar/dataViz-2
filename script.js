@@ -163,7 +163,7 @@ const centersData = [
         name: "National Institutes of Health",
         state: "MD",
         category: "nih leadership",
-        title: "NIH Leadership",
+        title: "National Institutes of Health Leadership",
         shortname: "NIH",
         lat: 39.0037,
         lon: -77.1013,
