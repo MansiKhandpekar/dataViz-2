@@ -106,7 +106,7 @@ const centersData = [
         title: "Data Analysis and Coordination Center (DACC)",
         shortname: "DACC",
         lat: 42.2626,
-        lon: -71.8023,
+        lon: -72.2023,
         description: "Our project aims to establish a data analysis and coordination center to coordinate and support the Consortium’s activities and maximize its success. The center will manage consortium data, coordinate and contribute to protocol development and data analysis, create a multi-dimensional dataset and a data portal, and provide outreach to disseminate consortium results.",
         leadership: "Leadership: Zhiping Weng (University of Massachusetts Chan Medical School), Anshul Kundaje (Stanford University) & Bill Noble (University of Washington)"
     },
