@@ -12,7 +12,7 @@ const centersData = [
         lat: 26.05476,
         lon: -97.50540,
         description: "Obesity-associated disease of the liver is a common and significant condition in the Mexican American Community. This study seeks to identify possible genes and their related elements that are associated with susceptibility and progression of liver disease in participants randomly chosen from the CCHC. We anticipate this could lead to identifying targets for intervention in this condition as well as identifying elements we could use for identifying those at high risk before they develop significant liver disease.",
-        leadership: "Leadership: Joseph McCormick (UTHealth), Piper Below (Vanderbilt University Medical Center) & Kari North (University of North Carolina)"
+        leadership: "Leadership: Joseph McCormick, MD, MPH (UTHealth), Piper Below, Ph.D. (Vanderbilt University Medical Center) & Kari North, Ph.D. (University of North Carolina)"
     },
 
     {
@@ -47,7 +47,8 @@ const centersData = [
         shortname: "Columbia-CKD",
         lat: 40.8075,
         lon: -73.9626,
-        description: "Chronic Kidney Disease (CKD) is a common, complex condition associated with many complications and high mortality that disproportionately affects African American and Hispanic communities. As part of the Multi-omics in Health and Disease consortium, we will establish a CKD Disease Study Site to evaluate if multi-omic approaches can improve precision medicine and promote equity in CKD care in ancestrally diverse populations.", leadership: "Leadership: Krzysztof Kiryluk (Columbia University)"
+        description: "Chronic Kidney Disease (CKD) is a common, complex condition associated with many complications and high mortality that disproportionately affects African American and Hispanic communities. As part of the Multi-omics in Health and Disease consortium, we will establish a CKD Disease Study Site to evaluate if multi-omic approaches can improve precision medicine and promote equity in CKD care in ancestrally diverse populations.",
+        leadership: "Leadership: Krzysztof Kiryluk, MD, M.S. (Columbia University)"
     },
 
     {
@@ -60,7 +61,7 @@ const centersData = [
         lon: -122.4194,
         description: "Asthma is the most common chronic disease of childhood, however disease burden is disproportionately higher in communities of color and of low socioeconomic status. Socio-environmental exposures, including psychosocial stressors and air pollution, are concentrated in these historically marginalized communities and contribute to asthma pathobiology through poorly understood mechanisms. Our goal is to improve our understanding of heterogeneous asthma pathobiology associated with socio-environmental exposures, relevant to marginalized populations, allowing us to better discriminate individuals at high risk for poor outcomes and identify place-based targets for intervention.",
         labelPosition: { x: 10, y: -10 },
-        leadership: "Leadership: Stephanie Christenson & Neeta Thakur (University of California San Francisco)"
+        leadership: "Leadership: Stephanie Christenson, MD, & Neeta Thakur, MD (University of California San Francisco)"
     },
 
     {
@@ -72,7 +73,7 @@ const centersData = [
         lat: 34.0224,
         lon: -118.2851,
         description: "Our transdisciplinary study is the largest and most comprehensive study on environmental exposures and the underlying mechanisms driving NAFLD risk and NAFLD progression that result in health disparities in Latino children. We will integrate state-of-the-art omics signatures using data science approaches to identify robust molecular profiles that are associated with NAFLD across different disease progression stages. Findings will contribute evidence to inform precision prevention strategies for NAFLD in high-risk populations.",
-        leadership: "Leadership: Lida Chatzi & Max Aung (University of Southern California)"
+        leadership: "Leadership: Lida Chatzi, MD, Ph.D., & Max Aung, Ph.D. (University of Southern California)"
     },
 
     {
@@ -84,7 +85,7 @@ const centersData = [
         lat: 32.8801,
         lon: -117.2340,
         description: "The Multi-Omics for Maternal Health after PE (MOM-Health) Disease Study Site aims to use multi-omic analyses of biosamples matched with comprehensive clinical and demographic information and measures of environmental exposures before and after delivery to uncover mechanisms leading from preeclampsia and other hypertensive diseases of pregnancy to cardiovascular disease following delivery in a diverse population. We strive to generate knowledge that can be used to develop strategies to predict patients at risk for later cardiovascular disease and to develop preventative therapies, improving postpartum maternal health in those most at risk for long-term morbidity and mortality.",
-        leadership: "Leadership: Louise Laurent & Marni Jacobs (University of California San Diego), Kathryn Lindley (Vanderbilt University Medical Center)"
+        leadership: "Leadership: Louise Laurent, MD, Ph.D., & Marni Jacobs, MPH, Ph.D. (University of California San Diego), Kathryn Lindley, MD (Vanderbilt University Medical Center)"
     },
 
     {
@@ -96,7 +97,7 @@ const centersData = [
         lat: 47.6553,
         lon: -122.3035,
         description: "Our project aims to establish a data analysis and coordination center to coordinate and support the Consortium’s activities and maximize its success. The center will manage consortium data, coordinate and contribute to protocol development and data analysis, create a multi-dimensional dataset and a data portal, and provide outreach to disseminate consortium results.",
-        leadership: "Leadership: Zhiping Weng (University of Massachusetts Chan Medical School), Anshul Kundaje (Stanford University) & Bill Noble (University of Washington)"
+        leadership: "Leadership: Zhiping Weng, Ph.D. (University of Massachusetts Chan Medical School), Anshul Kundaje, Ph.D. (Stanford University) & Bill Noble, Ph.D. (University of Washington)"
     },
 
     {
@@ -108,7 +109,7 @@ const centersData = [
         lat: 42.2626,
         lon: -72.2023,
         description: "Our project aims to establish a data analysis and coordination center to coordinate and support the Consortium’s activities and maximize its success. The center will manage consortium data, coordinate and contribute to protocol development and data analysis, create a multi-dimensional dataset and a data portal, and provide outreach to disseminate consortium results.",
-        leadership: "Leadership: Zhiping Weng (University of Massachusetts Chan Medical School), Anshul Kundaje (Stanford University) & Bill Noble (University of Washington)"
+        leadership: "Leadership: Zhiping Weng, Ph.D. (University of Massachusetts Chan Medical School), Anshul Kundaje, Ph.D. (Stanford University) & Bill Noble, Ph.D. (University of Washington)"
     },
 
     {
@@ -120,7 +121,7 @@ const centersData = [
         lat: 42.3601,
         lon: -71.0589,
         description: "Our goal is to establish a diabetes and kidney disease study site (DSS) comprised of 300 racially and ethnically diverse participants, including 200 with diabetes (half with kidney disease) and 100 healthy controls. Our DSS will be part of a collaborative initiative with an overall mission to advance the application of integrative multi-omics technologies to study health and disease in ancestrally diverse populations.", labelPosition: { x: 10, y: -10 },
-        leadership: "Leadership: Tanika Kelly (University of Illinois Chicago), Maria Argos (Boston University) & Ana Ricardo (University of Illinois Chicago)"
+        leadership: "Leadership: Tanika Kelly, Ph.D., MPH (University of Illinois Chicago), Maria Argos, Ph.D. (Boston University) & Ana Ricardo, MD, MPH (University of Illinois Chicago)"
     },
 
     {
@@ -144,7 +145,7 @@ const centersData = [
         lat: 38.6488,
         lon: -90.3108,
         description: "We propose to establish the Washington University Omics Production Center (WU-omics PC) as part of the Multi-Omics for Health and Disease Consortium. The WU-omics PC will profile human genes, proteins, and metabolites by using six different omics profiling technologies. The integration of these omics datasets and others will improve our understanding of human health and potentially lead to new strategies for the early detection, prevention, and treatment of disease in ancestrally diverse populations.",
-        leadership: "Leadership: Gary Patti & Ting Wang (Washington University St. Louis)"
+        leadership: "Leadership: Gary Patti, Ph.D., & Ting Wang, Ph.D. (Washington University St. Louis)"
     },
 
     {
@@ -156,7 +157,7 @@ const centersData = [
         lat: 37.4275,
         lon: -122.1697,
         description: "Our project aims to establish a data analysis and coordination center to coordinate and support the Consortium’s activities and maximize its success. The center will manage consortium data, coordinate and contribute to protocol development and data analysis, create a multi-dimensional dataset and a data portal, and provide outreach to disseminate consortium results.",
-        leadership: "Leadership: Zhiping Weng (University of Massachusetts Chan Medical School), Anshul Kundaje (Stanford University) & Bill Noble (University of Washington)"
+        leadership: "Leadership: Zhiping Weng, Ph.D. (University of Massachusetts Chan Medical School), Anshul Kundaje, Ph.D. (Stanford University) & Bill Noble, Ph.D. (University of Washington)"
     },
 
     {
