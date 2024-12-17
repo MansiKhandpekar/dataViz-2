@@ -85,7 +85,7 @@ const centersData = [
         lat: 32.8801,
         lon: -117.2340,
         description: "The Multi-Omics for Maternal Health after PE (MOM-Health) Disease Study Site aims to use multi-omic analyses of biosamples matched with comprehensive clinical and demographic information and measures of environmental exposures before and after delivery to uncover mechanisms leading from preeclampsia and other hypertensive diseases of pregnancy to cardiovascular disease following delivery in a diverse population. We strive to generate knowledge that can be used to develop strategies to predict patients at risk for later cardiovascular disease and to develop preventative therapies, improving postpartum maternal health in those most at risk for long-term morbidity and mortality.",
-        leadership: "Leadership: Louise Laurent, MD, Ph.D., & Marni Jacobs, MPH, Ph.D. (University of California San Diego), Kathryn Lindley, MD (Vanderbilt University Medical Center)"
+        leadership: "Leadership: Louise Laurent, MD, Ph.D., & Marni Jacobs, Ph.D., MPH (University of California San Diego), Kathryn Lindley, MD (Vanderbilt University Medical Center)"
     },
 
     {
@@ -169,7 +169,7 @@ const centersData = [
         lat: 39.0037,
         lon: -77.1013,
         description: "",
-        leadership: "<strong> National Human Genome Research Institute </strong> : <p> Temesgen D. Fufa, Ph.D. (Program Director) <br> Joannella Morales, Ph.D. (Program Director) <br> Erin M. Ramos. Ph.D., M.P.H. (Deputy Director, Division of Genomic Medicine) <br> Riley Wilson, B.S. (Program Analyst)</p> <strong> National Cancer Institute </strong> : <p> Leah E. Mechanic, Ph.D., MPH (Program Director)<br> Melissa Rotunno, Ph.D. (Program Director) </p> <strong> National Institute of Environmental Health Sciences </strong> : <p> Kimberly McAllister, Ph.D. (Program Director) </p>"
+        leadership: "<strong> National Human Genome Research Institute </strong> : <p> Temesgen D. Fufa, Ph.D. (Program Director) <br> Joannella Morales, Ph.D. (Program Director) <br> Erin M. Ramos, Ph.D., M.P.H. (Deputy Director, Division of Genomic Medicine) <br> Riley Wilson, B.S. (Program Analyst) </p> <strong> National Cancer Institute </strong> : <p> Leah E. Mechanic, Ph.D., M.P.H. (Program Director) <br> Melissa Rotunno, Ph.D. (Program Director) </p> <strong> National Institute of Environmental Health Sciences </strong> : <p> Kimberly McAllister, Ph.D. (Program Director) </p>"
     }
 ];
 
